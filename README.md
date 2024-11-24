@@ -1,10 +1,10 @@
-Prerequisites-
+#Prerequisites-
 Before you begin, ensure you have the following installed:
 
 Python 3.8 or higher
 pip (Python package installer)
 
-Installation-
+#Installation-
 
 Clone the repository
 
